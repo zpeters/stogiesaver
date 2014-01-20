@@ -1,3 +1,6 @@
+* Recommendations
+** The DHT11 is generally a crummy sensor.  Once the code and power usage are optimized test out a more robust sensor
+   http://www.reddit.com/r/cigars/comments/1vmi6o/my_weekend_project_stogie_saver_a_humidor/ceuaih7
 
 * Stuff to do
 ** DONE add libs and code
