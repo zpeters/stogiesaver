@@ -1,0 +1,11 @@
+
+* Stuff to do
+** DONE add libs and code
+** TODO add a fritz diagram
+** TODO add a proper read me
+** TODO fix power consumption
+   http://www.pjrc.com/teensy/low_power.html
+   http://forum.pjrc.com/threads/23660-Low-Power-quot-Green-quot-Battery-Operation-Solutions-For-The-Teensy-3
+   http://forum.pjrc.com/threads/17285-Teensy-3-0-LowPower-examples-don-t-work!?highlight=low+power
+** TODO determine best cutoffs for temp humid
+** TODO generally clean up code

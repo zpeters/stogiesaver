@@ -1,0 +1,15 @@
+A DHT11 Class for Arduino.
+
+Last Modified: December 14, 2013, at 03:57 AM
+By: robtillaart
+From: http://playground.arduino.cc/main/DHT11Lib
+
+Intro
+
+The DHT11 is a relatively cheap sensor for measuring temperature and humidity. This article describes a small library for reading both from the sensor. The DHT22 is similar to the DHT11 and has greater accuracy. However, this library is not suitable for the DHT21 or DHT22 as they have a different data format. Check DHTlib for support of these sensors.
+
+This library is tested on a MEGA2560 and is confirmed working on an Arduino 2009.
+
+Niesteszeck has made an interrupt-driven library for the DHT11 sensor.
+
+Andy Dalton has made a modified version. Difference is that the DATAPIN is defined in the constructor, resulting in one dedicated object per sensor.
