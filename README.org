@@ -1,7 +1,7 @@
 
 * Stuff to do
 ** DONE add libs and code
-** TODO add a fritz diagram
+** DONE add a fritz diagram
 ** TODO add a proper read me
 ** TODO fix power consumption
    http://www.pjrc.com/teensy/low_power.html
